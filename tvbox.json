@@ -1,6 +1,16 @@
 {
   "spider": "https://raw.githubusercontent.com/xshentx/tvbox/refs/heads/main/lib/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
   "wallpaper": "https://bing.img.run/uhd.php",
+  "lives": [
+    {
+      "name":"电视直播",
+      "type":0,
+      "url":"https://raw.githubusercontent.com/a736240087/tvbox/refs/heads/main/tvlive/tvlive.txt",
+      "playerType":1,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "天天",
