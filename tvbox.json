@@ -348,7 +348,7 @@
       "name": "天涯┃影视",
       "type": 1,
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "playurl": "json:https://tyyszywjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
