@@ -381,24 +381,6 @@
       "quickSearch":1
     },
     {
-      "key":"csp_xml_CK资源",
-      "name":"CK 资源",
-      "type":1,
-      "api":"https://ckzy.me/api.php/provide/vod/",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key":"csp_xml_CK资源2",
-      "name":"CK 资源2",
-      "type":1,
-      "api":"https://ckzy.me/api.php/provide/vod/?ac=list",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
       "key": "豆瓣资源",
       "name": "豆瓣┃影视",
       "type": 1,
@@ -484,9 +466,6 @@
           "1905",
           "NetFilx"
         ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
       }
     },
     {
@@ -508,7 +487,37 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    }
+    },
+    {
+      "name": "聚合解析",
+      "type": 1,
+      "url": "https://jx.rdhk.net/?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": ""
+        }
+      }
+    },
   ],
   "flags": [
     "youku",
