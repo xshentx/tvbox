@@ -381,6 +381,33 @@
       "quickSearch":1
     },
     {
+      "key":"csp_xml_极速资源",
+      "name":"极速|基础",
+      "type":1,
+      "api":"https://jszyapi.com/api.php/provide/vod/at/json",
+      "playUrl":"https://jsjiexi.com/play/?url=",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"csp_xml_极速资源",
+      "name":"极速|极速云",
+      "type":1,
+      "api":"https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
+      "playUrl":"https://jsjiexi.com/play/?url=",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"csp_xml_卧龙资源",
+      "name":"卧龙|APP",
+      "type":1,
+      "api":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key":"csp_xml_旺旺资源",
       "name":"旺旺短剧",
       "type":1,
