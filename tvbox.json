@@ -381,6 +381,15 @@
       "quickSearch":1
     },
     {
+      "key":"csp_xml_旺旺资源",
+      "name":"旺旺短剧",
+      "type":1,
+      "api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key": "豆瓣资源",
       "name": "豆瓣┃影视",
       "type": 1,
