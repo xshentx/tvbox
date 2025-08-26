@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/lib/豆瓣[官].js"
+      "ext": "https://raw.githubusercontent.com/xshentx/tvbox/refs/heads/main/lib/豆瓣[官].js"
     },
     {
       "key": "天天",
