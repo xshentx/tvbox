@@ -3,6 +3,16 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
+      "name":"电视直播",
+      "type":0,
+      "url":"https://raw.xshentx.org/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.txt",
+      "playerType":1,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
       "key": "hipy_js_豆瓣[官]",
       "name": "🍥┃豆瓣┃推荐🍥首次加载稍慢，请稍等片刻... ...",
       "type": 3,
@@ -13,16 +23,6 @@
       "order_num": 0,
       "ext": "https://raw.githubusercontent.com/xshentx/tvbox/refs/heads/main/lib/豆瓣[官].js"
     },
-    {
-      "name":"电视直播",
-      "type":0,
-      "url":"https://raw.xshentx.org/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.txt",
-      "playerType":1,
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-  "sites": [
     {
       "key": "天天",
       "name": "天天┃影视",
