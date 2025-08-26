@@ -6,7 +6,7 @@
       "key": "hipy_js_豆瓣[官]",
       "name": "🍥┃豆瓣┃推荐🍥首次加载稍慢，请稍等片刻... ...",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
