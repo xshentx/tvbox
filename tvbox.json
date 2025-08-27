@@ -576,6 +576,17 @@
       "categories": [  "电影",  "喜剧",  "爱情",  "动作",  "犯罪",  "科幻",  "奇幻",  "冒险",  "灾难",  "恐怖",  "惊悚",  "剧情",  "战争",  "歌舞",  "经典",  "悬疑",  "动画",  "同性",  "网络电影",  "电视剧",  "国产剧",  "港台剧",  "日韩剧",  "欧美剧",  "其他剧", "综艺", "国产综艺", "港台综艺", "日韩综艺", "欧美综艺", "动漫", "国产动漫", "日本动漫", "欧美动漫", "纪录片", "抢先版"]
     },
     {
+      "key": "苹果",
+      "name": "苹果|不卡",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/lib/最新4K.js"
+    },
+    {
       "key": "hipy_js_旺旺影视",
       "name": "旺旺影视(drpy_t3)",
       "type": 3,
