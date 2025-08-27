@@ -581,9 +581,8 @@
       "type": 3,
       "api": "csp_LiteAppleGuard",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
+      "changeable": 1,
+      "timeout": 15,
       "jar": "https://raw.xshentx.org/xshentx/tvbox/raw/refs/heads/main/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5"
     },
     {
