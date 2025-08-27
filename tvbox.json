@@ -3,6 +3,13 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://szyyds.cn/tv/live/x.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+	  },
+    {
       "name":"电视直播",
       "type":0,
       "url":"https://raw.xshentx.org/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.txt",
