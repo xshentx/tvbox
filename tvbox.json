@@ -607,6 +607,44 @@
       },
       "jar": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
     },
+	{
+      "key": "csp_Qiyou",
+      "name": "奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+    },
+	{
+      "key": "火火",
+      "name": "火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://shdy5.us",
+      "jar": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+    },
+	{
+      "key": "csp_Gz360",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+    },
+	{
+      "key": "糯米",
+      "name": "糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 15,
+	  "jar": "https://raw.xshentx.org/xshentx/tvbox/refs/heads/main/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5"
+    },
     {
       "key": "hipy_js_旺旺影视",
       "name": "旺旺影视(drpy_t3)",
